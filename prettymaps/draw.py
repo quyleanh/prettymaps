@@ -594,8 +594,8 @@ def draw_text(
                 "github.com/marceloprates/prettymaps"
             ]),
             x=0, y=1,
-            horizontalalignment='left',
-            verticalalignment='top',
+            horizontalalignment='right',
+            verticalalignment='bottom',
             bbox=dict(boxstyle='square', fc='#fff', ec='#000'),
             fontfamily=_get_available_fontfamily()
         ),
